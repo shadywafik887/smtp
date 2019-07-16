@@ -1,0 +1,292 @@
+webmail.wi.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+cox.net:587:timed out
+smtp.btinternet.com:587:timed out
+gfe.co.th:587:timed out
+webmail.cpf.co.th:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+webmail.ca.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.bbox.fr:587:timed out
+smtp.centrum.cz:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.kabelmail.de:587:timed out
+smtp.volny.cz:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+webmail.wi.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+cox.net:587:timed out
+smtp.btinternet.com:587:timed out
+webmail.cpf.co.th:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.btinternet.com:587:timed out
+smtp.btinternet.com:587:timed out
+smtp.btinternet.com:587:timed out
+webmail.ca.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.centrum.cz:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.free.fr:587:timed out
+smtp.bbox.fr:587:timed out
+smtp.kabelmail.de:587:timed out
+smtp.volny.cz:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+cox.net:587:timed out
+mail.arcor.de:587:[Errno 10053] An established connection was aborted by the software in your host machine
+smtp.126.com:587:timed out
+mail.arcor.de:587:[Errno 10053] An established connection was aborted by the software in your host machine
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+mail.arcor.de:587:[Errno 10053] An established connection was aborted by the software in your host machine
+mail.arcor.de:587:[Errno 10053] An established connection was aborted by the software in your host machine
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.tele2.nl:587:timed out
+smtp.tele2.nl:587:timed out
+smtp.kabelmail.de:587:timed out
+smtp.nate.com:25:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.bbox.fr:587:timed out
+smtp.fibertel.com.ar:25:timed out
+smtp.metalfrizzo.com.br:587:timed out
+smtp.bbox.fr:587:timed out
+smtp.nate.com:25:[Errno 10054] An existing connection was forcibly closed by the remote host
+mv.ru:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+mv.ru:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.bbox.fr:587:timed out
+smtp.126.com:587:timed out
+cox.net:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.globalnet.hr:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.bbox.fr:587:timed out
+smtp.126.com:587:timed out
+smtp.126.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.tele2.nl:587:timed out
+smtp.126.com:587:timed out
+smtp.163.com:587:timed out
+smtp.126.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.126.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.163.com:587:timed out
+smtp.yeah.net:587:timed out
+smtp.163.com:587:timed out
+smtp.r7.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+c2.hu:587:timed out
+smtp.r7.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.126.COM:587:timed out
+smtp.kabelmail.de:587:timed out
+smtp.kabelmail.de:587:timed out
+smtp.kabelmail.de:587:timed out
+mail.vip.hr:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+orcon.net.nz:587:timed out
+smtp.zeelandnet.nl:587:timed out
+smtp.kabelmail.de:587:timed out
+smtp.kabelmail.de:587:timed out
+smtp.qwerty.ru:25:[Errno 10054] An existing connection was forcibly closed by the remote host
+mail.juropnet.hu:587:timed out
+mail.juropnet.hu:587:timed out
+smtp.centrum.cz:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+163.net:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+mail.nvkz.net:25:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.eftel.com.au:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+mail.paleol.net:587:timed out
+smtp.uralweb.ru:25:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.fibertel.com.ar:25:timed out
+smtp.fibertel.com.ar:25:timed out
+smtp.xnet.hr:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.fibertel.com.ar:25:timed out
+smtp.fibertel.com.ar:25:timed out
+smtp.fibertel.com.ar:25:timed out
+smtp.fibertel.com.ar:25:timed out
+smtp.fibertel.com.ar:25:timed out
+mail.ufacom.ru:25:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.centrum.sk:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.fibertel.com.ar:25:timed out
+smtp.fibertel.com.ar:25:timed out
+smtp.fibertel.com.ar:25:timed out
+smtp.fibertel.com.ar:25:timed out
+smtp.volny.cz:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+johnhowarduk.com:587:timed out
+smtp.dsl.pipex.com:587:[Errno 10053] An established connection was aborted by the software in your host machine
+smtp.dial.pipex.com:587:[Errno 10053] An established connection was aborted by the software in your host machine
+smtp.nildram.co.uk:587:[Errno 10053] An established connection was aborted by the software in your host machine
+farmerstel.com:587:timed out
+smtp.gotadsl.co.uk:587:[Errno 10053] An established connection was aborted by the software in your host machine
+smtp.189.cn:587:timed out
+smtp.189.cn:587:timed out
+smtp.189.cn:587:timed out
+smtp.189.cn:587:timed out
+smtp.citynet.net.ar:25:timed out
+smtp.jetband.com.ar:25:timed out
+mail.ufamts.ru:25:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.Tele2.nl:587:timed out
+smtp.sc.chinamobile.com:465(SSL):('The read operation timed out',)
+email.ru:587:timed out
+smtp.chuderovec.cz:587:timed out
+smtp.zmuda.cz:587:timed out
+smtp.ddboskovice.cz:587:timed out
+mail.socal.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.YEAH.net:587:timed out
+smtp.tampabay.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+webmail.wi.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+mail.adelphia.net:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+springsioux.com:587:timed out
+webmail.elp.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+rafuprod.com:587:timed out
+smtp.eftel.net.au:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.globo.com:587:timed out
+smtp.globo.com:587:timed out
+smtp.globo.com:587:timed out
+smtp.globo.com:587:timed out
+sports-one.net:587:timed out
+mail.neo.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+mail.sc.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+mail.hawaii.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+freshtreks.com:587:timed out
+christopheortega.com:587:timed out
+mail.optonline.net:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+mail.twc.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.roadrunner.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.flash.com.ar:25:timed out
+smtp.rochester.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+webmail.cfl.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+mail.ctb.ne.jp:587:timed out
+smtp.nycap.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+demolitioncrew.de:25:timed out
+smtp.grupposerafini.it:25:timed out
+mail.triad.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+metrocom.co.id:587:timed out
+mail.ec.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+webmail.new.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+mail.carolina.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.skopecek.cz:465(SSL):('The read operation timed out',)
+umail.ru:465(SSL):('The read operation timed out',)
+smtp.twcny.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+flyinfo.fr:587:timed out
+smtp.luccaphoto.co.uk:587:timed out
+smtp.stny.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+warparadise.com:587:timed out
+mail.udsu.ru:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+pc-dimension.com:587:timed out
+mail.Yes.My:587:timed out
+mail.yes.my:587:timed out
+mail.yes.my:587:timed out
+vier-clan.de:25:timed out
+smtp.hanmail.net:587:timed out
+barsoft.fr:587:timed out
+mail.woh.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+assoquartierpierroton.fr:587:timed out
+smtp.interfracom.fr:587:timed out
+dybb.com:587:timed out
+webmail.austin.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.rivieraconsulting.fr:587:timed out
+smtp.loig.net:587:timed out
+smtp.chowsangsang.com:587:timed out
+mail.nc.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.idknet.com:587:timed out
+smtp.Nate.Com:25:[Errno 10054] An existing connection was forcibly closed by the remote host
+mail.columbus.rr.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+medianis.net:587:timed out
+vip.sohu.com:465(SSL):[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.daum.net:587:timed out
+smtp.pdonovanlaw.com:587:[Errno 10054] An existing connection was forcibly closed by the remote host
+smtp.YEAH.NET:587:timed out
+mail.mtel.net:25:timed out
